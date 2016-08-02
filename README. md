@@ -1,1 +1,5 @@
-# This project was java pattern, Thanks Head-first book,
+# 设计模式
+
+该`resource`所有均来自于`Head-First`， 感谢`Head-First`
+
+> 文件夹带`php`的为php实现， 默认为java实现， java实现文件夹组织可能有点混乱
